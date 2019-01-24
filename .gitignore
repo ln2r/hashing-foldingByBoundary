@@ -1,0 +1,10 @@
+# Visual Code Workspace file
+*.code-workspace
+
+# misc file
+.dropbox
+desktop.ini
+
+# unfinished variant
+folding.js
+folding_ind.php
